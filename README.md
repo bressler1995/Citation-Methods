@@ -10,7 +10,7 @@ Methods that leverage GitHub's native functionality.
 - [Footnotes (No central bib file)](https://github.com/bressler1995/Citation-Methods/tree/GitHub-Based/Footnotes)
 - Anchors
 
-### GitHub Pages Based
+### Static Site Based
 
 Methods that leverage web technologies available through GitHub's serverless hosting environment.  
 
