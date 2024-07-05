@@ -4,7 +4,7 @@ Just a repository for testing different implementations of bibliography / citati
 
 ### Completely GitHub Based
 
-- All
+- [All](https://github.com/bressler1995/Citation-Methods/tree/GitHub-Based)
 - [Footnotes (No central bib file)](https://github.com/bressler1995/Citation-Methods/tree/GitHub-Based/Footnotes)
 - Anchors
 
