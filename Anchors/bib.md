@@ -53,3 +53,9 @@ Last Name, First Name. "Title." _Publication Name_. January 1, 2011. Accessed at
 <div id="12"></div>
 
 Last Name, First Name. "Title." _Publication Name_. January 1, 2012. Accessed at https://example.com.
+
+<style>
+#user-content-10:target{
+    color:red;
+}
+</style>
