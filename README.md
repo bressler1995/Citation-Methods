@@ -2,9 +2,10 @@
 
 Just a repository for testing different implementations of bibliography / citation on GitHub.
 
-### Completely GitHub based
+### Completely GitHub Based
 
-More on this soon.
+- Footnotes (No central bib file)
+- Anchors
 
 ### GitHub Pages Based
 
