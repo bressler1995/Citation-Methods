@@ -14,4 +14,5 @@ Methods that leverage GitHub's native functionality.
 
 Methods that leverage web technologies available through GitHub's serverless hosting environment.
 
-(More on this soon.)
+- Jekyll
+- MDX
