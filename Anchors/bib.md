@@ -54,8 +54,20 @@ Last Name, First Name. "Title." _Publication Name_. January 1, 2011. Accessed at
 
 Last Name, First Name. "Title." _Publication Name_. January 1, 2012. Accessed at https://example.com.
 
-<style>
-#user-content-10:target{
-    color:red;
-}
-</style>
+### Group 4
+
+<div id="13"></div>
+
+Last Name, First Name. "Title." _Publication Name_. January 1, 2013. Accessed at https://example.com.
+
+<div id="14"></div>
+
+Last Name, First Name. "Title." _Publication Name_. January 1, 2014. Accessed at https://example.com.
+
+<div id="15"></div>
+
+Last Name, First Name. "Title." _Publication Name_. January 1, 2015. Accessed at https://example.com.
+
+<div id="16"></div>
+
+Last Name, First Name. "Title." _Publication Name_. January 1, 2016. Accessed at https://example.com.
