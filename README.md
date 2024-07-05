@@ -16,6 +16,7 @@ Methods that leverage web technologies available through GitHub's serverless hos
 
 We'll not prioritize these as much since GitHub native ways are going to work better with existing content. Tests for these may materialize later.
 
-- Jekyll
+- Pandoc
+- <a href="https://github.com/inukshuk/jekyll-scholar" target="_blank">Jekyll</a>
 - MDX
 - <a href="https://jupyterbook.org/en/stable/content/citations.html" target="_blank">JupyterBook</a>
