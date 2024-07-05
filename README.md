@@ -8,7 +8,7 @@ Methods that leverage GitHub's native functionality.
 
 - [All](https://github.com/bressler1995/Citation-Methods/tree/GitHub-Based)
 - [Footnotes (No central bib file)](https://github.com/bressler1995/Citation-Methods/tree/GitHub-Based/Footnotes)
-- Anchors
+- [Anchors](https://github.com/bressler1995/Citation-Methods/tree/GitHub-Based/Anchors)
 
 ### Static Site Based
 
