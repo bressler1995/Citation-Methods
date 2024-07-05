@@ -12,7 +12,10 @@ Methods that leverage GitHub's native functionality.
 
 ### GitHub Pages Based
 
-Methods that leverage web technologies available through GitHub's serverless hosting environment.
+Methods that leverage web technologies available through GitHub's serverless hosting environment.  
+
+We'll not prioritize these as much since GitHub native ways are going to work better with existing content. Tests for these may materialize later.
 
 - Jekyll
 - MDX
+- <a href="https://jupyterbook.org/en/stable/content/citations.html" target="_blank">JupyterBook</a>
