@@ -29,6 +29,7 @@ We'll not prioritize these as much since GitHub native ways are going to work be
 - MDX
   - Built on React, so a component based reference system can easily be implemented without too much setup
   - Can use anchor based method from GitHub based list.
+  - For example &lt;Citation ref='someref'/&gt;
 - <a href="https://jupyterbook.org/en/stable/content/citations.html" target="_blank">JupyterBook</a>
   - Uses extensions to support BibTeX
 - RMarkdown
