@@ -21,7 +21,10 @@ We'll not prioritize these as much since GitHub native ways are going to work be
   - Multiple 
   - But an interesting solution because Pandoc is also a conversion tool.  Couldn't it convert Pandoc Markdown to GitHub Markdown and carry over the link refs?
   - Many supported bibliography <a href="https://pandoc.org/chunkedhtml-demo/3.1-general-options.html" target="_blank">formats</a>
-- <a href="https://github.com/inukshuk/jekyll-scholar" target="_blank">Jekyll</a>
+- Jekyll
+  - Ruby based gems like [this one](https://github.com/inukshuk/jekyll-scholar).
+    - Bib and Bibtex support
 - MDX
-  - Based on React, so a component based reference system can be implemented
+  - Built on React, so a component based reference system can be implemented
 - <a href="https://jupyterbook.org/en/stable/content/citations.html" target="_blank">JupyterBook</a>
+  - Uses extensions to support Bibtext
