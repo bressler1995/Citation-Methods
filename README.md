@@ -18,8 +18,7 @@ We'll not prioritize these as much since GitHub native ways are going to work be
 
 - <a href="https://www.andrewheiss.com/blog/2023/01/09/syllabus-csl-pandoc/" target="_blank">Pandoc</a>
   - Pandoc flavored markdown (not supported natively on GitHub)
-  - Multiple 
-  - But an interesting solution because Pandoc is also a conversion tool.  Couldn't it convert Pandoc Markdown to GitHub Markdown and carry over the link refs?
+  - An interesting solution because Pandoc is also a conversion tool with support for many formats.  Couldn't it convert Pandoc Markdown to GitHub Markdown and carry over the link refs after compiling?
   - Many supported bibliography <a href="https://pandoc.org/chunkedhtml-demo/3.1-general-options.html" target="_blank">formats</a>
 - Jekyll
   - Ruby based gems like [this one](https://github.com/inukshuk/jekyll-scholar).
@@ -29,3 +28,5 @@ We'll not prioritize these as much since GitHub native ways are going to work be
   - Can use anchor based method from GitHub based list.
 - <a href="https://jupyterbook.org/en/stable/content/citations.html" target="_blank">JupyterBook</a>
   - Uses extensions to support Bibtext
+- RMarkdown
+  - <a href="https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html">Reference</a>
