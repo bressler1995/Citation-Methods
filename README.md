@@ -11,7 +11,7 @@ Methods that leverage GitHub's native functionality.
 - [Anchors](https://github.com/bressler1995/Citation-Methods/tree/GitHub-Based/Anchors)
 - GitHub actions
   - There really wasn't any prebuilt options other than schema checkers for citation.cff files, and LaTeX compilers (LaTeX to PDF converters)
-  - Technically a custom GitHub action could be written
+  - Technically a custom GitHub action could be written to recurse through a source and modify the body text based on that source
 
 ### External Environments
 
