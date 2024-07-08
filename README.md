@@ -17,7 +17,7 @@ Methods that leverage web technologies in an environment outside of GitHub.com o
 We'll not prioritize these as much since GitHub native ways are going to work better with existing content. Tests for these may materialize later.
 
 - <a href="https://www.andrewheiss.com/blog/2023/01/09/syllabus-csl-pandoc/" target="_blank">Pandoc</a>
-  - Pandoc flavored markdown (not supported on GitHub)
+  - Pandoc flavored markdown (not supported natively on GitHub)
   - Multiple 
   - But an interesting solution because Pandoc is also a conversion tool.  Couldn't it convert Pandoc Markdown to GitHub Markdown and carry over the link refs?
   - Many supported bibliography <a href="https://pandoc.org/chunkedhtml-demo/3.1-general-options.html" target="_blank">formats</a>
@@ -25,6 +25,7 @@ We'll not prioritize these as much since GitHub native ways are going to work be
   - Ruby based gems like [this one](https://github.com/inukshuk/jekyll-scholar).
     - Bib and Bibtex support
 - MDX
-  - Built on React, so a component based reference system can be implemented
+  - Built on React, so a component based reference system can easily be implemented
+  - Can use anchor based method from GitHub based list.
 - <a href="https://jupyterbook.org/en/stable/content/citations.html" target="_blank">JupyterBook</a>
   - Uses extensions to support Bibtext
