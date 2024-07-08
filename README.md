@@ -27,7 +27,7 @@ We'll not prioritize these as much since GitHub native ways are going to work be
   - Ruby based gems like [this one](https://github.com/inukshuk/jekyll-scholar).
     - Bib and BibTeX support
 - MDX
-  - Built on React, so a component based reference system can easily be implemented
+  - Built on React, so a component based reference system can easily be implemented without too much setup
   - Can use anchor based method from GitHub based list.
 - <a href="https://jupyterbook.org/en/stable/content/citations.html" target="_blank">JupyterBook</a>
   - Uses extensions to support BibTeX
