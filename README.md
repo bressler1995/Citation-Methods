@@ -15,7 +15,7 @@ Methods that leverage GitHub's native functionality.
 
 ### External Environments
 
-Methods that leverage web technologies in an environment outside of GitHub.com or GitHub pages.  
+Methods that leverage web technologies in an environment outside of GitHub.com, or are able to make use of GitHub pages.  
 
 We'll not prioritize these as much since GitHub native ways are going to work better with existing content. Tests for these may materialize later.
 
